@@ -1,2 +1,2 @@
 # Java_beginner
-beginner
+Java learning
